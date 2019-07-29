@@ -1,0 +1,100 @@
+nav ul
+{
+    display: block;
+}
+ul 
+{
+    
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.abc
+{
+    display: inline-block;
+}
+ul li
+{
+    float: left;
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    opacity: .8;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    margin-right: 2px;
+    
+}
+#globalContact{
+    
+}
+#formal
+{background-color: azure;
+    text-align: left;
+    padding: 10px;
+    margin: auto;
+    height: 20%;
+}
+#address
+{
+    background-color: azure;
+    text-align: right;
+      padding: 10px;
+    margin: auto;
+    height: 20%;
+}
+main
+{
+    background-color: azure;
+    text-align: left;
+      padding: 10px;
+    margin: auto;
+    height: 20%;
+}
+#social
+{
+    background-color: azure;
+    text-align: right;
+      padding: 10px;
+    margin: auto;
+    height: 20%;
+}
+table
+{
+    text-align: center;
+}
+ul li a {
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+ul li a:hover{
+    background-color: forestgreen;
+    
+}
+#contact
+{
+    padding: 10px;
+    height: 20%;
+   
+    text-align: center;
+    
+}
+ul li:hover ul li
+{
+    display: block;
+    width: cover;
+    height: auto;
+    float: left;
+    
+}
+ul li ul li
+{
+    display: none;
+}
+body{
+   
+    font-family: Halvetica, Arial, sans-serif;
+    color: black;
+}
